@@ -1,9 +1,10 @@
-### Hi there 👋
-
 ![Richmond Hill](https://github.com/mellownightpirate/mellownightpirate/blob/master/Organic%20Makeup%20_%20Sustainable%20Style.png?raw=true)
 
 <!--
 **mellownightpirate/mellownightpirate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Hi there, my name is Amin 👋
+---
 
 Here are some ideas to get you started:
 
@@ -15,4 +16,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### Podcasts: 🎙
+---
+A podcast to chronicle other developers’ journey into coding. It’s no secret that the primary purpose of this podcast is to network with other developers to better understand their motivations, work ethic, and journey in software development. I’m hoping this will interest a lot of other people who can identify with this journey, especially at this time.
+
+<li><a href="https://anchor.fm/amin-hasan/episodes/The-Resilient-Russian-eh33p6">The Resilient Russian</a></li>
 -->
