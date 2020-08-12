@@ -1,6 +1,6 @@
-![Richmond Hill](https://github.com/mellownightpirate/mellownightpirate/blob/master/Organic%20Makeup%20_%20Sustainable%20Style.png?raw=true)
-### Hi there, my name is Amin 👋
+### Hi there 👋
 ---
+![Richmond Hill](https://github.com/mellownightpirate/mellownightpirate/blob/master/Organic%20Makeup%20_%20Sustainable%20Style.png?raw=true)
 I'm a British-Arab living in London, UK with a passion for London property and architecture. I'm most excited where property, architecture, urban cities and their histories intersect with and are illuminated by technology, business and design. I love dining out and exploring a city's local and hospitality scene. Fintech, decentralised finance, and open banking are some of my other interests.
 
 I started my career facilitating debt factoring services to small businesses for 5 years in the wake of the global financial crisis and economic downturn. Since then I spent 7 years managing a portfolio of prime property in London for HNWIs. I've been a company director and co-founder since 2007 so I'm very familiar and passionate about start-up culture and working in agile team-based environments.
