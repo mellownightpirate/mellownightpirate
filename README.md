@@ -1,7 +1,7 @@
 ### Hi there 👋
 ---
 ![Richmond Hill](https://github.com/mellownightpirate/mellownightpirate/blob/master/Organic%20Makeup%20_%20Sustainable%20Style.png?raw=true)
-A British-Arab based in London, UK with a passion for tech and innovation. Fintech, decentralised finance, cryptocurrency (built my own ethereum miner from scratch using Claymore's ethereum miner in 2017) and open banking (see Open Banking App) are some of my key interests.
+I'm a British-Arab based in London, UK with a passion for tech and innovation. Fintech, decentralised finance, cryptocurrency (built my own ethereum miner from scratch using Claymore's ethereum miner in 2017) and open banking (see Open Banking App) are some of my key interests.
 
 I started my career facilitating debt factoring services to small businesses for 5 years in the wake of the global financial crisis and economic downturn. Since then I spent 7 years managing a portfolio of prime property in London for HNWIs. I've been a company director and co-founder since 2007 so I'm very familiar and passionate about start-up culture and working in agile team-based environments.
 
