@@ -1,13 +1,13 @@
 ### Hi there 👋
 ---
 ![Richmond Hill](https://github.com/mellownightpirate/mellownightpirate/blob/master/Organic%20Makeup%20_%20Sustainable%20Style.png?raw=true)
-I'm a British-Arab living in London, UK with a passion for London property and architecture. I'm most excited where property, architecture, urban cities and their histories intersect with and are illuminated by technology, business and design. I love dining out and exploring a city's local and hospitality scene. Fintech, decentralised finance, and open banking are some of my other interests.
+A British-Arab based in London, UK with a passion for tech and innovation. Fintech, decentralised finance, cryptocurrency (built my own ethereum miner from scratch using Claymore's ethereum miner in 2017) and open banking (see Open Banking App) are some of my key interests.
 
 I started my career facilitating debt factoring services to small businesses for 5 years in the wake of the global financial crisis and economic downturn. Since then I spent 7 years managing a portfolio of prime property in London for HNWIs. I've been a company director and co-founder since 2007 so I'm very familiar and passionate about start-up culture and working in agile team-based environments.
 
 I transitioned into tech in 2019 when I joined Lambda School - a coding bootcamp with a unique educational model centered around competence and learning how to learn, where I built up a mastery of subjects in full stack software development and computer science (such as hooks and functional components, CRUD and RESTful APIs, state management, data structures, OOP vs functional programming, to name a few...).
 
-I am now seeking new opportunities as a fullstack software developer. Connect with me on <a href="https://www.linkedin.com/in/amin-hasan/">LinkedIn</a>.
+I am now seeking new opportunities in tech. Connect with me on <a href="https://www.linkedin.com/in/amin-hasan/">LinkedIn</a>.
 
 I love to code and I like to keep in touch with technology by building projects to learn new languages and tools. Currently, I'm enjoying JavaScript and Python.
 
